@@ -1,0 +1,163 @@
+/*---- GLOBAL STYLES ----*/
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+    margin: 0 10%;
+    padding-bottom: 20px;
+    font-size: 26px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 14px;
+}
+
+/*---- MAIN ----*/
+
+#colors {
+    border: 1px solid grey;
+    margin: 0 10%;
+    padding-left: 15px;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.yellow-green {
+    background-color: #d4e09b;
+    color: black;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    padding-top: 60px;
+}
+
+.light-beige {
+    background-color: #f6f4d2;
+    color: black;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    padding-top: 60px;
+}
+
+.sage {
+    background-color: #cbdfbd;
+    color: black;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    padding-top: 60px;
+}
+
+.peach {
+    background-color: #f19c79;
+    color: black;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    padding-top: 60px;
+}
+
+#fonts {
+    border: 1px solid grey;
+    margin: 20px 10%;
+    padding-left: 15px;
+}
+
+.font-container {
+    width: 100%;
+    color: grey;
+}
+
+.font-box {
+    width: 45%;
+    display: inline-block;
+    padding: 0 10px;
+}
+
+.montserrat {
+    text-decoration: underline;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.montserrat-plain {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.montserrat-bold {
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.montserrat-italic {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+
+.raleway {
+    text-decoration: underline;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+.raleway-plain {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+}
+
+.raleway-bold {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+.raleway-italic {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.barlow {
+    text-decoration: underline;
+}
+
+.barlow-bold {
+    font-weight: bolder;
+}
+
+.barlow-italic {
+    font-style: italic;
+}
+
+#text-styles {
+    border: 1px solid grey;
+    margin: 20px 10%;
+    padding-left: 15px;
+}
+
+.text-box {
+    display: block;
+    text-align: left;
+    color: grey;
+}
+
+.main {
+    font-weight: 700;
+    font-size: 26px;
+}
+
